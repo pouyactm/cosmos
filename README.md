@@ -3,6 +3,8 @@ Azure Cosmos DB is a fully managed database service with turnkey global distribu
 This repo is primarily a hub for linking to relevant GitHub repos for Azure Cosmos DB. It also contains some common engineering docs for use by the Cosmos DB engineering team.
 
 # Azure Cosmos DB
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fpouyactm%2Fcosmos.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fpouyactm%2Fcosmos?ref=badge_shield)
+
 
 ## Getting started 🎉
 To get started with Azure Cosmos DB, checkout [docs.microsoft.com](https://docs.microsoft.com/en-us/azure/cosmos-db/).
@@ -59,3 +61,7 @@ provided by the bot. You will only need to do this once across all repos using o
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
 For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
 contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fpouyactm%2Fcosmos.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fpouyactm%2Fcosmos?ref=badge_large)
